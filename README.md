@@ -1,6 +1,5 @@
-x=# 🎈 Blank app template
+x=# 🛤️ right on track
 
-A simple Streamlit app template for you to modify!
 
 
 
@@ -13,12 +12,4 @@ picture = st.camera_input("Take a picture of your ROOM!")
 if picture:
     st.image(picture)
 
-   ```
-   $ pip install -r requirements.txt
-   ```
 
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
